@@ -1,0 +1,13 @@
+{
+        "baseUrl": "https://www.vr.com.br/",
+        "defaultCommandTimeout":7000000,
+        "execTimeout":7000000,
+        "pageLoadTimeout":7000000,
+        "requestTimeout":7000000,
+        "responseTimeout":7000000,
+        "slowTestThreshold":7000000,
+        "taskTimeout":7000000,
+        "viewportHeight":1024,
+        "viewportWidth": 1280
+    
+    }
